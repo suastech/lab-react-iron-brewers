@@ -15,6 +15,7 @@ describe("Iteration 3", () => {
       name: "New Beer 1",
       tagline: "New Tagline 1",
       description: "New Description 1",
+      image_url: "www.google.com",
       first_brewed: "01/2023",
       brewers_tips: "Test Brewer Tips",
       attenuation_level: 1,
